@@ -1,0 +1,27 @@
+{
+  "name": "starterproject",
+  "version": "0.0.1",
+  "authors": [
+    "ernestjumbe <e2jeyy@gmail.com>"
+  ],
+  "description": "Express.js starter project",
+  "main": "app.js",
+  "keywords": [
+    "node",
+    "express",
+    "compass"
+  ],
+  "license": "MIT",
+  "homepage": "ejumbe.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.1"
+  }
+}
